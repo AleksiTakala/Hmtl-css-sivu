@@ -1,0 +1,76 @@
+.Centered {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+    background: rgb(0,0,0);
+    background: rgba(0,0,0,0.5);
+    padding: 500px;
+
+}
+.kuva {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
+.kuva1 {
+    position: absolute;
+    top:30%;
+    left:35%;
+}
+.kuvatuo {
+    position: absolute;
+    top: 100%;
+    left: 20%;
+}
+.kuvatuo2 {
+    position: absolute;
+    top: 100%;
+    left: 60%;
+}
+.boxtuote1 {
+    position: absolute;
+    top:100%;
+    left: 59%;
+}
+.boxtuote2 {
+    position: absolute;
+    top:100%;
+    left: 19%;
+}
+
+.teksti {
+    position: absolute;
+    top: 70%;
+    left: 25%;
+    color: white;
+}
+.tekstit {
+    position: absolute;
+    top: 70%;
+    left: 25%;
+    color: black;
+}
+.box {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+.box2 {
+    position: absolute;
+    top: 8px;
+    right: 130px;
+}
+.box1 {
+    position: absolute;
+    top: 8px;
+    right: 239px;
+}
+.tuoteteksti1 {
+    position: absolute;
+    top:134%;
+    left:20%;
+}
