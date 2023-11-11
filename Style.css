@@ -1,21 +1,20 @@
 .Centered {
     position: absolute;
-    top: 25%;
-    left: 50%;
+    top: 25vh;
+    left: 50vw;
     transform: translate(-50%, -50%);
     color: white;
     font-family: "Lucida Console", "Courier New", monospace;
-    font-size: 40px;
-    background: rgb(0,0,0);
-    background: rgba(0,0,0,0.5);
+    font-size: 65px;
 
 
 }
 
 .kuva {
     position: absolute;
-    top: 30%;
-    left: 35%;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
 }
 .kuva1 {
     position: absolute;
@@ -24,36 +23,48 @@
 }
 .kuvatuo {
     position: absolute;
-    top: 100%;
-    left: 20%;
+    top: 65%;
+    left: 30%;
+    text-align: center;
+    color:white;
 }
 .kuvatuo2 {
     position: absolute;
-    top: 100%;
-    left: 60%;
+    top: 65%;
+    left: 55%;
+    text-align: center;
+    color:white;
 }
 .boxtuote1 {
     position: absolute;
     top:100%;
     left: 59%;
+    transform: translate(-50%, -50%);
 }
 .boxtuote2 {
     position: absolute;
     top:100%;
     left: 19%;
+    transform: translate(-50%, -50%);
 }
 
 .teksti {
     position: absolute;
-    top: 70%;
-    left: 25%;
+    top: 70vh;
+    left: 50vw;
     color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    transform: translate(-50%, -50%);
+
 }
 .tekstit {
     position: absolute;
     top: 70%;
-    left: 25%;
+    left: 50%;
     color: white;
+    transform: translate(-50%, -50%);
+    padding: 316px 44px 660px 73px;
+    background-color: grey;
 }
 .box {
     position: absolute;
@@ -72,13 +83,16 @@
 }
 .tuoteteksti1 {
     position: absolute;
-    top:100%;
-    left:37%;
+    top:112%;
+    left:50%;
     color: white;
+    transform: translate(-50%, -50%);
+
 }
 .tuoteteksti2 {
     position: absolute;
-    top:100%;
-    left:77%;
+    top:77%;
+    left:50%;
     color: white;
+    transform: translate(-50%, -50%);
 }
