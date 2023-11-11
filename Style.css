@@ -8,9 +8,10 @@
     font-size: 40px;
     background: rgb(0,0,0);
     background: rgba(0,0,0,0.5);
-    padding: 500px;
+
 
 }
+
 .kuva {
     position: absolute;
     top: 30%;
@@ -52,7 +53,7 @@
     position: absolute;
     top: 70%;
     left: 25%;
-    color: black;
+    color: white;
 }
 .box {
     position: absolute;
@@ -71,6 +72,13 @@
 }
 .tuoteteksti1 {
     position: absolute;
-    top:134%;
-    left:20%;
+    top:100%;
+    left:37%;
+    color: white;
+}
+.tuoteteksti2 {
+    position: absolute;
+    top:100%;
+    left:77%;
+    color: white;
 }
