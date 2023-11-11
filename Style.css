@@ -57,14 +57,21 @@
     transform: translate(-50%, -50%);
 
 }
-.tekstit {
+.padding {
     position: absolute;
     top: 70%;
     left: 50%;
     color: white;
     transform: translate(-50%, -50%);
-    padding: 316px 44px 660px 73px;
-    background-color: grey;
+    padding: 53vh 30vw 80px 53vw;
+    background-color: black;
+}
+.tekstit{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
 }
 .box {
     position: absolute;
